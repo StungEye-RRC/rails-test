@@ -1,6 +1,6 @@
 == README
 
-Kyle has personalized this readme.
+This was changed.
 
 Things you may want to cover:
 
